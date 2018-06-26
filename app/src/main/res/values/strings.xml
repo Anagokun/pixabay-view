@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GDI Image Search</string>
+    <string name="search_box_hint">Search for an image</string>
+    <string name="search">Search</string>
+</resources>
